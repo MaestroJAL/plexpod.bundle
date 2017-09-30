@@ -5,4 +5,4 @@ it automatically finds the podcasts art if any and displays it with the tracklis
 
 CHANGELOG V1: 10/20/16 added search fuction, delete fuction, automatic rss feed management, and general speed optimizations
 
-MaestroJAL: Added a fix for iOS devices.
+MaestroJAL: 09/30/17 Added a fix for iOS devices.
