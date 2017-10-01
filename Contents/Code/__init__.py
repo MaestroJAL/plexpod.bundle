@@ -94,7 +94,7 @@ def SecondMenu(title, offset):
 	return oc
 
 ####################################################################################################
-def CreateTrackObject(url, title, thumb, summary, include_container=False, includeBandwidths=0):
+def CreateTrackObject(url, title, thumb, summary, include_container=False, **kwargs):
 
 	if url.endswith('.mp3'):
 		container = Container.MP3
